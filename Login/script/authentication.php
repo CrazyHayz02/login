@@ -34,7 +34,7 @@
 
 <html>
     <head>
-        <title>Welcome</title>
+        <title>Welcome there</title>
     </head>
 </html>
 
